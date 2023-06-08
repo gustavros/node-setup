@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node build/index.js --watch",
-    "vercel-build": "echo hello"
+    "start": "node build/index.js --watch"
+    
   },
   "keywords": [],
   "author": "",
