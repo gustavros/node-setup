@@ -6,7 +6,7 @@ const app = express();
 app.use(cors()); // this is a middleware
 
 app.get("/", (req, res) => {
-  res.send("Hello vercel!");
+  res.send("Hello vercel :D!");
 });
 
 app.listen(3000, () => {
